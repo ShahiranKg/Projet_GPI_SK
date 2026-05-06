@@ -1,4 +1,3 @@
 # Projet_GPI_SK
 ## Master training project
-C'est un test pour le projet modélisation de l'arn
-test juste pour voir
+Nous allons devoir réaliser un projet informatique, dans le cadre de **gestion de projet informatique** 
